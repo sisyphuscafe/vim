@@ -5,7 +5,7 @@
 " https://github.com/sisyphuscafe/vim
 "
 " ----------------------------------------------------------------------
-" Modified: Wed Aug 19 16:08:46 UTC 2020
+" Modified: Sun 14 Feb 2021 06:28:46 PM UTC
 
 set number " enable line numbers
 
@@ -21,4 +21,5 @@ set hlsearch " highlight search results
 set background=dark " always seem to be using a black shell window
 
 set wrapmargin=8
+set shiftwidth=4
 set tabstop=4
